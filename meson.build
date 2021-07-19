@@ -348,6 +348,7 @@ data_files = files(
 	'data/devices/openinput.device',
 	'data/devices/roccat-kone-pure.device',
 	'data/devices/roccat-kone-xtd.device',
+	'data/devices/roccat-kova-aimo.device',
 	'data/devices/steelseries-kinzu-v2.device',
 	'data/devices/steelseries-kinzu-v2-pro.device',
 	'data/devices/steelseries-kinzu-v3.device',

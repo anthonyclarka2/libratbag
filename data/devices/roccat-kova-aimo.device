@@ -1,0 +1,4 @@
+[Device]
+Name=Roccat Kova AIMO
+DeviceMatch=usb:1e7d:2cee
+Driver=roccat
